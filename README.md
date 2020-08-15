@@ -1,4 +1,4 @@
-# 🤖 Robofriends
+# Robofriends :robot:
 
 A community of Robofriends being friendly. Includes search feature.
 
@@ -10,7 +10,7 @@ TODO
 
 TODO
 
-## Getting started
+## :rocket: Getting started
 
 ### 1. Clone or download this repository:
 
@@ -32,7 +32,7 @@ yarn start
 
 ## Credit
 
-Based on the [React course](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by [@aneagoie](https://twitter.com/AndreiNeagoie)
+Based on the [Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course by [@AndreiNeagoi](https://twitter.com/AndreiNeagoie)
 
 ## License
 
