@@ -2,9 +2,7 @@
 
 A community of Robofriends being friendly. Includes search feature.
 
-## Live Demo
-
-TODO
+[Live Demo](https://josephgattuso.github.io/robofriends)
 
 ## Features
 
