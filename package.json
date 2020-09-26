@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "author": "josephgattuso <josephh.gattuso@gmail.com>",
-  "description": "A community of friendly Robots",
+  "description": "A community for friendly robots",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
