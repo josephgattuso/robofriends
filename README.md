@@ -1,37 +1,57 @@
-# Robofriends :robot:
+<h1 align="center">
+  <a href="https://josephgattuso.github.io/robofriends">
+    <span role="img" aria-label="robot">🤖</span>
+    <br />
+    Robofriends
+  </a>
+</h1>
 
-A community of Robofriends being friendly. Includes search feature.
+<p align="center">
+  <em>
+    A community for friendly robots, built with React 
+    <a href="https://reactjs.org">React</a>.
+  </em>
+</p>
 
-[Live Demo](https://josephgattuso.github.io/robofriends)
+<p align="center">
+  <a
+    target="_blank"
+    href="https://github.com/josephgattuso/robofriends/blob/master/LICENSE"
+  >
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  </a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+  <a
+    target="_blank"
+    href="https://twitter.com/intent/follow?screen_name=joeetuso"
+  >
+    <img
+      src="https://img.shields.io/twitter/follow/joeetuso.svg?label=@joeetuso"
+    />
+  </a>
+</p>
 
-## Features
+## 🚀 Quick Start
 
-TODO
-
-## :rocket: Getting started
-
-### 1. Clone or download this repository:
-
-```sh
-git clone https://github.com/josephgattuso/robofriends.git
-```
-
-### 2. Install dependencies:
+### Using `yarn`
 
 ```sh
 yarn
-```
-
-### 3. Develop the app locally:
-
-```sh
 yarn start
 ```
 
-## Credit
+### Using `npm`
 
-Based on the [Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course by [@AndreiNeagoi](https://twitter.com/AndreiNeagoie)
+```sh
+npm install
+npm run start
+```
 
-## License
+## 🔗 Resources
+
+- [React Docs](https://reactjs.org/docs/getting-started.html) - Getting started with React
+- [Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) - course by Andrei Neagoi
+
+## 📄 License
 
 [MIT](./LICENSE)
