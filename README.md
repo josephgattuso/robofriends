@@ -7,13 +7,6 @@
 </h1>
 
 <p align="center">
-  <em>
-    A community for friendly robots, built with React 
-    <a href="https://reactjs.org">React</a>.
-  </em>
-</p>
-
-<p align="center">
   <a
     target="_blank"
     href="https://github.com/josephgattuso/robofriends/blob/master/LICENSE"
@@ -29,6 +22,13 @@
       src="https://img.shields.io/twitter/follow/joeetuso.svg?label=@joeetuso"
     />
   </a>
+</p>
+
+<p align="center">
+  <em>
+    A community for friendly robots, built with 
+    <a href="https://reactjs.org">React</a>.
+  </em>
 </p>
 
 ## 🚀 Quick Start
